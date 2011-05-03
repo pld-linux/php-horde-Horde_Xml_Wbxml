@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	c881231c8f5976fd0586c282a9c9f8a4
-URL:		http://pear.horde.org/package/Horde_Xml_Wbxml/
+URL:		https://github.com/horde/horde/tree/master/framework/Xml_Wbxml/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
