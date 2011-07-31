@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde_Xml_Wbxml provides an API for encoding and decoding WBXML documents used in SyncML and other wireless applications
 Name:		php-horde-Horde_Xml_Wbxml
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	c881231c8f5976fd0586c282a9c9f8a4
+# Source0-md5:	70db38abe9284a00ca5fb8277b5d20cf
 URL:		https://github.com/horde/horde/tree/master/framework/Xml_Wbxml/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
