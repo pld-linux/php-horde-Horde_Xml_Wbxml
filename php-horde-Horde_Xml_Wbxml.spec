@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Xml_Wbxml
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde_Xml_Wbxml provides an API for encoding and decoding WBXML documents used in SyncML and other wireless applications
 Name:		php-horde-Horde_Xml_Wbxml
 Version:	1.0.3
